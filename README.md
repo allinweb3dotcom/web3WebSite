@@ -2,7 +2,6 @@
 https://allinweb3.com
 ![image](https://github.com/user-attachments/assets/34bb6325-ffe5-48a2-8008-c6ca435575b0)
 ![image](https://github.com/user-attachments/assets/ec36eb53-cbb9-4748-88b5-4f3cbce0253b)
-![image](https://github.com/user-attachments/assets/b660ce6f-e50c-4dd7-b0ef-da0e27a64c2d)
 ![image](https://github.com/user-attachments/assets/7087d1ac-befc-4ae7-ae5f-a933cddbefaf)
 ![image](https://github.com/user-attachments/assets/321b9b7c-9604-4eee-ade8-615e998576cd)
 ![image](https://github.com/user-attachments/assets/2647827f-42d5-4f3a-a589-5cda4721e853)
