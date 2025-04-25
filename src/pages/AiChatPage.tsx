@@ -42,7 +42,7 @@ const AiChatPage = () => {
         {
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer sk-29a26404cb914c1babcd0c89672136db'
+            'Authorization': 'Bearer sk-**********************************'
           }
         }
       );
